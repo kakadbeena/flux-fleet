@@ -10,4 +10,4 @@ spec:
     branch: main
   secretRef:
     name: github-instavote-deploy
-  url: https://github.com/kakadbeena/instavote-deploy.git 
+  url: https://github.com/kakadbeena/instavote-deploy.git
